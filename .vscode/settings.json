@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceRoot}/SynthEyes/Scripts",
+        "C:/Program Files/Prism2/Scripts"
+    ]
+}
